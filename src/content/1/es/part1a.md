@@ -373,11 +373,11 @@ Los props enviados por el componente <i>App</i> son los valores de las variables
 
 El componente <i>Hello</i> también imprime en consola el valor del objeto props.
 
-Yo realmente espero que tu consola esté abierta. Si no es asi, recuerda tu promesa:
+Yo realmente espero que tu consola esté abierta. Si no es así, recuerda tu promesa:
 
 > <i>Prometo dejar la consola abierta todo el tiempo</i> durante este curso, y por el resto de mi vida mientras esté haciendo desarrollo web.
 
-El desarrollo de software es difícil. Este se vuelve aun más difícil si uno no está usando todas las herramientas disponibles como la consola de desarrollo e imprimiendo la depuración con _console.log_. Los profesionales usan ambas <i>todo el tiempo</i> y no hay una sola razón de porque un principiante no deberías adoptar estos maravillosos métodos de ayuda que le harán la vida mucho más fácil.
+El desarrollo de software es difícil. Este se vuelve aún más difícil si uno no está usando todas las herramientas disponibles como la consola de desarrollo e imprimiendo la depuración con _console.log_. Los profesionales usan ambas <i>todo el tiempo</i> y no hay una sola razón por la que un principiante no debería adoptar estos maravillosos métodos de ayuda que le harán la vida mucho más fácil.
 
 ### Posible mensaje de error
 
